@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+results/*.png
+results/*_history.csv
+results/*_metrics.json
+results/*_confusion_matrix.csv
