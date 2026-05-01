@@ -5,7 +5,7 @@ from zipfile import ZipFile
 # downloads the flickr8k dataset from the github release and extracts it
 # the zip is about 1GB so it takes a few minutes
 
-DATASET_URL = "https://github.com/marieliske/CS4375_Marie_Liske_ML_Project/releases/download/v1.0.0/flikr8k.zip"
+DATASET_URL = "https://github.com/marieliske/Flickr8k-Dataset/releases/download/v1.0.0/flikr8k.zip"
 DATA_DIR = Path("data")
 ZIP_PATH = DATA_DIR / "flickr8k.zip"
 
